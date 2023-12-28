@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimbirREST_API", "SimbirREST_API\SimbirREST_API.csproj", "{7647F865-451E-4577-9C20-507518D532EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDataAccess", "EFDataAccess\EFDataAccess.csproj", "{B7C39D38-1315-4207-8295-1276F1C848B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7647F865-451E-4577-9C20-507518D532EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7647F865-451E-4577-9C20-507518D532EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7647F865-451E-4577-9C20-507518D532EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7647F865-451E-4577-9C20-507518D532EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7C39D38-1315-4207-8295-1276F1C848B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C39D38-1315-4207-8295-1276F1C848B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C39D38-1315-4207-8295-1276F1C848B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C39D38-1315-4207-8295-1276F1C848B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E60F4E0-5343-440E-BCD6-F1181BBC4E8D}
+	EndGlobalSection
+EndGlobal
